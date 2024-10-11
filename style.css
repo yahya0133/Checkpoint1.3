@@ -1,0 +1,95 @@
+body{
+    background-color: aquamarine;
+}
+#table1{
+    background-color: antiquewhite;
+    border-radius: 0px 0px 50px 50px;
+}
+:any-link{
+    color: red;
+}
+:any-link:hover{
+    color: green;
+}
+h1,h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: plum;
+}
+ol{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    text-align: center;
+
+}
+
+
+#img{
+    margin-left: 40%;
+    border-radius: 50px;
+
+}
+#table2{
+    width: 40%;
+    height: 500px;
+margin-left: 30%;
+margin-top: 10%;
+    background-color:#bfcfa585;
+    border-radius: 0px 50px 0px 50px;
+    padding: 20px;
+}
+#r{
+    background-color: red;
+
+}
+#s{
+    background-color: chartreuse;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+
+}
+input:hover{
+ 
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(74, 218, 93);}
+button{
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+
+}
+#s:hover{
+    background-color: rgba(41, 43, 39, 0.295);}
+#r:hover{
+        background-color: rgba(41, 43, 39, 0.295);}
+
+#form1{
+    margin-left:30%;
+
+}
+#table3{
+    background-color: rgb(214, 155, 77);
+    width:40%;
+    height: 50%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+
+    border-radius: 0px 50px 0px 50px;
+    padding: 20px;
+}
+textarea{
+    padding: 50px;
+    border-radius: 0px 50px 0px 50px;
+}
+textarea:hover{
+    background-color:rgb(74, 218, 93) ;
+}
